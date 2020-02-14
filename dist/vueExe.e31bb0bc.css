@@ -1,0 +1,15 @@
+.container[data-v-2017af] {
+  color: blue;
+  border: 1px solid gray;
+  width: 500px;
+  padding: 10px;
+}
+div[data-v-b9184a] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p[data-v-b9184a] {
+  color: green;
+}
