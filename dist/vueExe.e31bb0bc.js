@@ -8923,7 +8923,7 @@ exports.default = vue_1.default.extend({
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "container" }, [
+  return _c("div", { class: { active: _vm.counter > 3, container: true } }, [
     _vm._v("Hello " + _vm._s(_vm.name) + "\n  "),
     _c(
       "button",

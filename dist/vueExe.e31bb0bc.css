@@ -4,6 +4,9 @@
   width: 500px;
   padding: 10px;
 }
+.active[data-v-2017af] {
+  background-color: red;
+}
 div[data-v-b9184a] {
   display: flex;
   flex-direction: column;
